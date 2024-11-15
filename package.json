@@ -2,6 +2,6 @@
   "name": "swagger-preview.nvim",
   "version": "1.0.0",
   "dependencies": {
-    "swagger-ui-watcher": "^2.1.14"
+    "swagger-ui-watcher": "2.1.2-beta.2"
   }
 }
